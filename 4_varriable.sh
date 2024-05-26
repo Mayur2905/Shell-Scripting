@@ -7,4 +7,4 @@ age=24
 
 echo $name
 
-echo  " My $name is Mayur and my age is $age"
+echo  "My $name is Mayur and my age is $age"
