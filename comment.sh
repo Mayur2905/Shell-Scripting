@@ -2,22 +2,25 @@
 
 #!/bin/bash
 
-# This is a comment
-echo "Hello this is first shell script" # This is also a inline comment
+# # This is a comment
+# echo "Hello this is first shell script" # This is also a inline comment
 
-# Strong quotes
-echo ' my \
-name \
-is \
-Mayur\
-'
+# # Strong quotes
+# echo ' my \
+# name \
+# is \
+# Mayur\
+# '
 
-# Double quotes
-echo "  my \
-name \
-is \
-Mayur\
-" # This is a multi-line comment
+# # Double quotes
+# echo "  my \
+# name \
+# is \
+# Mayur\
+# " # This is a multi-line comment
 
-# tab in line
-echo -e "Hello\tWorld"
+# # tab in line
+# echo -e "Hello\tWorld"
+
+# New line in line
+echo -e "Hello\nWorld"
