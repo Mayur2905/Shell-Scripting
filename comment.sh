@@ -12,8 +12,12 @@ is \
 Mayur\
 '
 
+# Double quotes
 echo "  my \
 name \
 is \
 Mayur\
 " # This is a multi-line comment
+
+# tab in line
+echo -e "Hello\tWorld"
