@@ -25,6 +25,6 @@ echo ${1}
 echo ${2}
 
 name=${0}
-ages=${1}
+age=${1}
 
 echo "My name is ${name} and my age is ${age}"
