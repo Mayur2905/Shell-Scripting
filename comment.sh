@@ -22,5 +22,8 @@
 # # tab in line
 # echo -e "Hello\tWorld"
 
-# New line in line
-echo -e "Hello\nWorld"
+# # New line in line
+# echo -e "Hello\nWorld"
+
+# # Backspace in line
+echo -e "Hello\bWorld"
